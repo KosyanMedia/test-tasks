@@ -1,0 +1,13 @@
+
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1024" transform="translate(-779.000000, -384.000000)" fill-rule="nonzero" fill="#D2D5D6">
+            <g id="Ticket" transform="translate(354.000000, 345.000000)">
+                <g id="ic_airplanemode_active_black_24px" transform="translate(432.000000, 45.500000) rotate(-270.000000) translate(-432.000000, -45.500000) translate(425.500000, 38.500000)">
+                    <path d="M13,10.1 L13,8.8 L7.52631579,5.55 L7.52631579,1.975 C7.52631579,1.4355 7.06789474,1 6.5,1 C5.93210526,1 5.47368421,1.4355 5.47368421,1.975 L5.47368421,5.55 L0,8.8 L0,10.1 L5.47368421,8.475 L5.47368421,12.05 L4.10526316,13.025 L4.10526316,14 L6.5,13.35 L8.89473684,14 L8.89473684,13.025 L7.52631579,12.05 L7.52631579,8.475 L13,10.1 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
