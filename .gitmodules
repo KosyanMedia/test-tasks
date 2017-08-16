@@ -1,0 +1,3 @@
+[submodule "travelpayouts/front-end"]
+	path = travelpayouts/front-end
+	url = https://github.com/KosyanMedia/Front-end_TP_test.git
