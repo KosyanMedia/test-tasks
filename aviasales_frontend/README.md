@@ -12,7 +12,7 @@
 - Работоспособность в актуальной версии Google Chrome
 - Остальное на твоё усмотрение
 
-## Документация по работе с сервером: ([Здесь](https://github.com/KosyanMedia/test-tasks/blob/frontend-task/aviasales_frontend/server.md))
+## Документация по работе с сервером: [Здесь](https://github.com/KosyanMedia/test-tasks/blob/master/aviasales_frontend/server.md)
 
 ## Макет
 
