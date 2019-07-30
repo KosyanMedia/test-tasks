@@ -1,3 +1,6 @@
+# ВНИМАНИЕ! Это тестовое задание является устаревшим. Новое тестовое задание доступно по ссылке ниже:
+[](https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend)
+
 ## Тестовое задание Aviasales ([frontend](https://aviasales.recruitee.com/o/frontend-developer-js-coffeescript-react%C2%A0redux--aviasalesru))
 
 Основной фронтенд проект нашей команды — это страница выдачи билетов со множеством фильтров, настроек и, собственно, билетов.
