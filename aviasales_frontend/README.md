@@ -14,11 +14,10 @@
 
 ## Документация по работе с сервером: [Здесь](https://github.com/KosyanMedia/test-tasks/blob/master/aviasales_frontend/server.md)
 
-## Макет
+## Макет (Figma)
+https://github.com/KosyanMedia/test-tasks/raw/f0f60244b045928746188a86ba4f76ddb5515111/aviasales_frontend/Aviasales%20Test%20Task.fig
 
-https://www.figma.com/file/4fQe1lEbo4DARjvNtaU0uJ/Aviasales-test-task
-
-Залогинься, чтобы видеть CSS-свойства элементов
+Figma 
 
 ![](search_preview.png?raw=true)
 
