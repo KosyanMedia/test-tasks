@@ -4,21 +4,21 @@
 
 ## Получение `searchId`
 
-Просто отправь GET-запрос на `https://front-test.beta.aviasales.ru/search` и получи его.
+Просто отправь GET-запрос на `https://front-test.dev.aviasales.ru/search` и получи его.
 
 Пример:
 
-Request: `https://front-test.beta.aviasales.ru/search`
+Request: `https://front-test.dev.aviasales.ru/search`
 
 Response: `{"searchId":"4niyd"}`
 
 ## Получение пачки билетов
 
-Отправляй GET-запросы на `https://front-test.beta.aviasales.ru/tickets` и передай searchId полученный из запроса выше GET-параметром.
+Отправляй GET-запросы на `https://front-test.dev.aviasales.ru/tickets` и передай searchId полученный из запроса выше GET-параметром.
 
 Пример:
 
-Request: `https://front-test.beta.aviasales.ru/tickets?searchId=4niyd`
+Request: `https://front-test.dev.aviasales.ru/tickets?searchId=4niyd`
 
 Response: `{tickets: [], stop: false}`
 
@@ -28,7 +28,7 @@ Response: `{tickets: [], stop: false}`
 
 Пример:
 
-Request: `https://front-test.beta.aviasales.ru/tickets?searchId=4niyd`
+Request: `https://front-test.dev.aviasales.ru/tickets?searchId=4niyd`
 
 Response: `{tickets: [], stop: true}`
 
