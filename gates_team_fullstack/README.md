@@ -10,8 +10,8 @@
 
 Макет по [ссылке](https://www.figma.com/file/D54loPQ2rStAOTsH1vzWH5rs/Notifications).
 
-От тебя требyется:
-- Сверcтать макет (необязательно pixel perfect);
+От тебя требуется:
+- Сверстать макет (необязательно pixel perfect);
 - Написать фронтенд на react-стеке;
 - Поднять веб-сервер на python, который будет отдавать нужные данные на фронт (данные в файле `dashboard_data.json`).
 
